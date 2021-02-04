@@ -1,0 +1,8 @@
+﻿@font-face {
+    font-family: 'DXIcons';
+    src: url('<%=WebResource("DevExpress.Web.Resources.Css.DevExtreme.icons.dxicons.eot")%>');
+    src: url('<%=WebResource("DevExpress.Web.Resources.Css.DevExtreme.icons.dxicons.eot")%>') format('embedded-opentype'),
+         url('<%=WebResource("DevExpress.Web.Resources.Css.DevExtreme.icons.dxicons.woff")%>') format('woff'),
+         url('<%=WebResource("DevExpress.Web.Resources.Css.DevExtreme.icons.dxicons.woff2")%>') format('woff2'),
+         url('<%=WebResource("DevExpress.Web.Resources.Css.DevExtreme.icons.dxicons.ttf")%>') format('truetype');
+}
