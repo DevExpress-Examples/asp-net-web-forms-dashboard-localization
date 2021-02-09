@@ -44,7 +44,7 @@ The **DashboardLocalizationManualWeb** project prevents the Web Dashboard contro
 ## More Examples
 
 - [ASP.NET Core Dashboard Control - Localization](https://github.com/DevExpress-Examples/asp-net-core-dashboard-localization)
-- [ASP.NET MVC Dashboard Control - Localization](https://github.com/DevExpress-Examples/asp-net-mvc-dashboard-localization)
+- [ASP.NET MVC Dashboard Extension - Localization](https://github.com/DevExpress-Examples/asp-net-mvc-dashboard-localization)
 - [Dashboard for Angular - Localization](https://github.com/DevExpress-Examples/angular-dashboard-localization)
 - [Dashboard for React - Localization](https://github.com/DevExpress-Examples/react-dashboard-localization)
 - [Dashboard for Vue - Localization](https://github.com/DevExpress-Examples/vue-dashboard-localization)
