@@ -39,7 +39,7 @@ The **DashboardLocalizationManualWeb** project prevents the Web Dashboard contro
 
 ## Documentation
 
-- [Localization for ASP.NET Web Forms Dashboard Control](https://docs.devexpress.com/Dashboard/400833/web-dashboard/aspnet-web-forms-dashboard-control/localization)
+- [Localize ASP.NET Web Forms Dashboard Control](https://docs.devexpress.com/Dashboard/400833/web-dashboard/aspnet-web-forms-dashboard-control/localization)
 
 ## More Examples
 
