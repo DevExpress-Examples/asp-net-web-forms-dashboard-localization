@@ -1,4 +1,7 @@
 # Dashboard for ASP.NET Web Forms - Localization
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/336037668/)**
+<!-- run online end -->
 
 The example shows how to localize an ASP.NET Web Forms Dashboard application:
 
