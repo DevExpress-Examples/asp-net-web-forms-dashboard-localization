@@ -3,10 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T971018)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Dashboard for ASP.NET Web Forms - Localization
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/336037668/)**
-<!-- run online end -->
+# BI Dashboard for ASP.NET Web Forms - Localization
 
 The example shows how to localize an ASP.NET Web Forms Dashboard application:
 
@@ -23,24 +20,20 @@ The example also shows how to apply custom formatting for numbers and dates.
 
 ### Automatic Script Registration
 
-<!-- default file list -->
-*Files to look at*:
+*Files to Review:*
 
 * [Default.aspx](./CS/DashboardLocalizationWeb/Default.aspx)
 * [Web.config](./CS/DashboardLocalizationWeb/Web.config)
-<!-- default file list end -->
 
 The **DashboardLocalizationWeb** project registers client libraries automatically. Globalize is included when you [register third-party libraries](https://docs.devexpress.com/Dashboard/402121/web-dashboard/aspnet-web-forms-dashboard-control/required-client-libraries#automatic-integration).
 
 
 ### Manual Script Registration
 
-<!-- default file list -->
-*Files to look at*:
+*Files to Review*:
 
 * [Default.aspx](./CS/DashboardLocalizationManualWeb/Default.aspx)
 * [Web.config](./CS/DashboardLocalizationManualWeb/Web.config)
-<!-- default file list end -->
 
 The **DashboardLocalizationManualWeb** project prevents the Web Dashboard control from loading client libraries automatically and references [Globalize and other libraries](https://docs.devexpress.com/Dashboard/402121/web-dashboard/aspnet-web-forms-dashboard-control/required-client-libraries#manual-integration) on the web page.
 
